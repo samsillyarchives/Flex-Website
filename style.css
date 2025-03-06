@@ -1,7 +1,8 @@
 
-/*body{
-    background-color: aqua;
-}*/
+body{
+    background-image: url('scribble.JPG');
+    background-size: cover;
+}
 
 h1{
     text-align: right;
